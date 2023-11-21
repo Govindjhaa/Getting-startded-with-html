@@ -1,0 +1,41 @@
+﻿GETTING STARTED  WITH HTML ASSIGMENT 
+
+
+
+
+
+
+Q2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document ?
+
+
+ Ans. The purpose of comments in HTML comments tags is used to insert comments in the source of code comments are not displayed in the web browser 
+
+
+
+
+
+
+Q4. Write a short note on tag and element with an example?
+
+
+
+
+Ans. In the HTML  a tag is keyword or alphabet that surrounded by angles brackets( <,>,!)   that defines an element on webpage  an element as opening and closing tags . Tags are used for formatting content on webpage. 
+
+
+Example = <h1> this is paragraph element </h1>
+
+
+<h1> - opening tag.
+</h1> - closing tag.
+this is paragraph element ( content). 
+ 
+
+
+Q5. what is  Doctype deceleration in HTML?
+
+
+Ans. The Doctype declaration in HTML  mostly used in a document. It helps us to render the webpage  correctly  by indicating the rules  should be applied. Doctype declaration  placed at the begnigng  of HTML documents before any tags used  
+For example = <!DOCTYPE html>
+Rest of HTML document return after that. In that example <!DOCTYPE html>
+Indicate that document return in HTML5.
